@@ -1,0 +1,64 @@
+body{
+    background-image: url('img/island_background2.png');
+    background-attachment: fixed;
+    background-size: cover;
+
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+
+}
+
+#otsikko{
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(212, 142, 12, 0.89);
+    text-shadow: #000 0px 0px 3px;
+    -webkit-font-smoothing: antialiased;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul{
+    font-size: 50px;
+    padding: 0%;
+    margin: 12%;
+    list-style: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a:link {
+
+    color: navajowhite;
+    text-decoration: none;
+    text-shadow: #000 0px 0px 2px;
+    -webkit-font-smoothing: antialiased;
+
+  }
+
+a:visited {
+
+    color: navajowhite;
+    text-decoration: none;
+    text-shadow: #000 0px 0px 2px;
+    -webkit-font-smoothing: antialiased;
+    
+}
+
+a:hover {
+    
+    color: orange;
+    text-decoration: none;
+    text-shadow: #000 0px 0px 2px;
+    -webkit-font-smoothing: antialiased;
+}
+a:active {
+
+    color: navajowhite;
+    text-decoration: none;
+    text-shadow: #000 0px 0px 2px;
+    -webkit-font-smoothing: antialiased;
+    
+}
